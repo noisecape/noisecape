@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @noisecape
-- 👀 I’m interested in Software Engineer, Machine Learning, AI and VideoGames.
-- 🌱 I’m currently learning Machine Learning and AI
+- 👀 I’m interested in AI and Computer Vision!
 - 💞️ I’m looking to collaborate on interesting ML and AI projects
 
 <!---
